@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Validador/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Validador.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Validador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Validador/1.0.0": {
+      "type": "project",
+      "path": "../Validador/Validador.csproj",
+      "msbuildProject": "../Validador/Validador.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Validador >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Tairshus\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\tareas utn\\Clase_02_Ejer1\\Clase_02_Ejer1\\Clase_02_Ejer1.csproj",
+      "projectName": "Clase_02_Ejer1",
+      "projectPath": "D:\\tareas utn\\Clase_02_Ejer1\\Clase_02_Ejer1\\Clase_02_Ejer1.csproj",
+      "packagesPath": "C:\\Users\\Tairshus\\.nuget\\packages\\",
+      "outputPath": "D:\\tareas utn\\Clase_02_Ejer1\\Clase_02_Ejer1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Tairshus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://packagesdesa.trabajo.gob.ar/nuget": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\tareas utn\\Clase_02_Ejer1\\Validador\\Validador.csproj": {
+              "projectPath": "D:\\tareas utn\\Clase_02_Ejer1\\Validador\\Validador.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase_02_Ejer1", "Clase_02_Ejer1\Clase_02_Ejer1.csproj", "{0FC836FC-CBA0-421E-A01E-42F661FAB366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validador", "Validador\Validador.csproj", "{43375D11-8DD1-468E-8826-10927A188E00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FC836FC-CBA0-421E-A01E-42F661FAB366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC836FC-CBA0-421E-A01E-42F661FAB366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC836FC-CBA0-421E-A01E-42F661FAB366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC836FC-CBA0-421E-A01E-42F661FAB366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43375D11-8DD1-468E-8826-10927A188E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43375D11-8DD1-468E-8826-10927A188E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43375D11-8DD1-468E-8826-10927A188E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43375D11-8DD1-468E-8826-10927A188E00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B66A0E8-EA3C-43EC-9B22-0002EED8A0CD}
+	EndGlobalSection
+EndGlobal

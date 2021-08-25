@@ -1,0 +1,12 @@
+D:\tareas utn\Clase_02_Ejer1\Validador\bin\Debug\net5.0\Validador.deps.json
+D:\tareas utn\Clase_02_Ejer1\Validador\bin\Debug\net5.0\Validador.dll
+D:\tareas utn\Clase_02_Ejer1\Validador\bin\Debug\net5.0\ref\Validador.dll
+D:\tareas utn\Clase_02_Ejer1\Validador\bin\Debug\net5.0\Validador.pdb
+D:\tareas utn\Clase_02_Ejer1\Validador\obj\Debug\net5.0\Validador.csproj.AssemblyReference.cache
+D:\tareas utn\Clase_02_Ejer1\Validador\obj\Debug\net5.0\Validador.GeneratedMSBuildEditorConfig.editorconfig
+D:\tareas utn\Clase_02_Ejer1\Validador\obj\Debug\net5.0\Validador.AssemblyInfoInputs.cache
+D:\tareas utn\Clase_02_Ejer1\Validador\obj\Debug\net5.0\Validador.AssemblyInfo.cs
+D:\tareas utn\Clase_02_Ejer1\Validador\obj\Debug\net5.0\Validador.csproj.CoreCompileInputs.cache
+D:\tareas utn\Clase_02_Ejer1\Validador\obj\Debug\net5.0\Validador.dll
+D:\tareas utn\Clase_02_Ejer1\Validador\obj\Debug\net5.0\ref\Validador.dll
+D:\tareas utn\Clase_02_Ejer1\Validador\obj\Debug\net5.0\Validador.pdb
