@@ -1,0 +1,12 @@
+D:\tareas utn\Clase3_Ejer1\Cuenta\bin\Debug\net5.0\Cuenta.deps.json
+D:\tareas utn\Clase3_Ejer1\Cuenta\bin\Debug\net5.0\Cuenta.dll
+D:\tareas utn\Clase3_Ejer1\Cuenta\bin\Debug\net5.0\ref\Cuenta.dll
+D:\tareas utn\Clase3_Ejer1\Cuenta\bin\Debug\net5.0\Cuenta.pdb
+D:\tareas utn\Clase3_Ejer1\Cuenta\obj\Debug\net5.0\Cuenta.csproj.AssemblyReference.cache
+D:\tareas utn\Clase3_Ejer1\Cuenta\obj\Debug\net5.0\Cuenta.GeneratedMSBuildEditorConfig.editorconfig
+D:\tareas utn\Clase3_Ejer1\Cuenta\obj\Debug\net5.0\Cuenta.AssemblyInfoInputs.cache
+D:\tareas utn\Clase3_Ejer1\Cuenta\obj\Debug\net5.0\Cuenta.AssemblyInfo.cs
+D:\tareas utn\Clase3_Ejer1\Cuenta\obj\Debug\net5.0\Cuenta.csproj.CoreCompileInputs.cache
+D:\tareas utn\Clase3_Ejer1\Cuenta\obj\Debug\net5.0\Cuenta.dll
+D:\tareas utn\Clase3_Ejer1\Cuenta\obj\Debug\net5.0\ref\Cuenta.dll
+D:\tareas utn\Clase3_Ejer1\Cuenta\obj\Debug\net5.0\Cuenta.pdb
